@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhashini K</h1>
-<h3 align="center">A passionate Full Stack Developer & CSE student with a strong enthusiasm for technology and problem-solving</h3>
+<h3 align="center">A passionate Full Stack Developer & CSE student with a strong enthusiasm for technology </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Dream+Big!;Learn+Relentlessly!;Build+Consistently!" alt="Typing SVG" />
